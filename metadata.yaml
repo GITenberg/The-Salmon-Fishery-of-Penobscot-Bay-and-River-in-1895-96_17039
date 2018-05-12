@@ -1,0 +1,27 @@
+_repo: The-Salmon-Fishery-of-Penobscot-Bay-and-River-in-1895-96_17039
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Hugh M. (Hugh McCormick)
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '7100'
+    url: http://www.gutenberg.org/2009/agents/7100
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_McCormick_Smith
+description: ''
+gutenberg_issued: '2005-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlantic salmon fisheries -- Maine'
+- !lcc 'SH'
+title: The Salmon Fishery of Penobscot Bay and River in 1895-96
+url: http://www.gutenberg.org/ebooks/17039
