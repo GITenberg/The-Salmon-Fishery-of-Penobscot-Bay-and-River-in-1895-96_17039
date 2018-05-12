@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7100
     wikipedia: http://en.wikipedia.org/wiki/Hugh_McCormick_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17039#The-Salmon-Fishery-of-Penobscot-Bay-and-River-in-1895-96
 gutenberg_issued: '2005-11-10'
 gutenberg_type: Text
 identifiers:
